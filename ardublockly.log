@@ -1,0 +1,121 @@
+2025-03-28T16:00:28.188Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.2
+2025-03-28T16:00:28.189Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\leand\OneDrive\Escritorio\ardublockly
+2025-03-28T16:00:28.189Z - info: [ArdublocklyElec] OS detected: win32
+2025-03-28T16:00:28.319Z - info: [ServerMgr] Command: C:\Users\leand\OneDrive\Escritorio\ardublockly\arduexec\server\start.exe --findprojectroot --nobrowser
+2025-03-28T16:00:30.167Z - info: [ArdublocklySrv] Running Python 3.4.4 (32 bit) on Windows-10-10.0.19041
+
+
+======= Parsing Command line arguments =======
+
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+
+======= Resolving server and project paths =======
+
+Ardublockly root directory: C:\Users\leand\OneDrive\Escritorio\ardublockly
+Selected server root: C:\Users\leand\OneDrive\Escritorio\ardublockly
+
+
+======= Loading Settings =======
+
+Settings file corrupted or not found in:
+	 C:\Users\leand\OneDrive\Escritorio\ardublockly\ServerCompilerSettings.ini
+
+Settings will be set to the default values.
+
+Final settings loaded:
+	Compiler directory: None
+	Arduino Board Key: Atmel atmega168pb Xplained mini
+	Arduino Board Value: atmel:avr:atmega168pb_xplained_mini
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\leand\OneDrive\Escritorio\ardublockly
+	Load IDE option: open
+
+Settings file saved to:
+	C:\Users\leand\OneDrive\Escritorio\ardublockly\ServerCompilerSettings.ini
+
+2025-03-28T16:03:37.149Z - info: [ArdublocklySrv] 
+
+======= Starting Server =======
+
+Setting HTTP Server Document Root to: 
+	C:\Users\leand\OneDrive\Escritorio\ardublockly
+
+Launching the HTTP service...
+
+IDE options set to:
+	Verify sketch
+Settings file saved to:
+	C:\Users\leand\OneDrive\Escritorio\ardublockly\ServerCompilerSettings.ini
+
+2025-03-28T16:03:39.654Z - info: [ArdublocklySrv] 
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	C:\Users\leand\OneDrive\Escritorio\ardublockly\ServerCompilerSettings.ini
+
+2025-03-28T23:49:50.147Z - info: [ArdublocklySrv] ----------------------------------------
+Exception happened during processing of request from ('199.45.154.145', 48792)
+----------------------------------------
+----------------------------------------
+Exception happened during processing of request from ('167.94.145.97', 34082)
+----------------------------------------
+
+IDE options set to:
+	Open sketch in IDE
+Settings file saved to:
+	C:\Users\leand\OneDrive\Escritorio\ardublockly\ServerCompilerSettings.ini
+
+2025-03-28T23:49:57.899Z - info: [ArdublocklySrv] 
+IDE options set to:
+	Compile and Upload sketch
+Settings file saved to:
+	C:\Users\leand\OneDrive\Escritorio\ardublockly\ServerCompilerSettings.ini
+
+2025-03-28T23:52:09.038Z - info: [ServerMgr] Server stopped.
+2025-03-28T23:52:09.050Z - info: [ArdublocklySrv] Process exited with code null
+2025-04-01T15:10:27.667Z - info: [ArdublocklyElec] Starting Ardublockly version: 0.1.2
+2025-04-01T15:10:27.668Z - info: [ArdublocklyElec] Ardublockly root dir: C:\Users\leand\OneDrive\Escritorio\ardublockly
+2025-04-01T15:10:27.668Z - info: [ArdublocklyElec] OS detected: win32
+2025-04-01T15:10:27.874Z - info: [ServerMgr] Command: C:\Users\leand\OneDrive\Escritorio\ardublockly\arduexec\server\start.exe --findprojectroot --nobrowser
+2025-04-01T15:10:30.111Z - info: [ArdublocklySrv] Running Python 3.4.4 (32 bit) on Windows-10-10.0.19041
+
+
+======= Parsing Command line arguments =======
+
+Parsed "--findprojectroot" flag. The ardublockly project root will be set as the server root directory.
+Parsed "--nobrowser" flag. No browser will be opened.
+
+
+======= Resolving server and project paths =======
+
+Ardublockly root directory: C:\Users\leand\OneDrive\Escritorio\ardublockly
+Selected server root: C:\Users\leand\OneDrive\Escritorio\ardublockly
+
+
+======= Loading Settings =======
+
+Settings loaded from:
+	 C:\Users\leand\OneDrive\Escritorio\ardublockly\ServerCompilerSettings.ini
+
+The provided compiler path in the settings file is not valid:
+	None
+Default compiler path set:
+	None
+
+Final settings loaded:
+	Compiler directory: None
+	Arduino Board Key: Atmel atmega168pb Xplained mini
+	Arduino Board Value: atmel:avr:atmega168pb_xplained_mini
+	Serial Port Value: COM1
+	Sketch Name: ArdublocklySketch
+	Sketch Directory: C:\Users\leand\OneDrive\Escritorio\ardublockly
+	Load IDE option: upload
+
+Settings file saved to:
+	C:\Users\leand\OneDrive\Escritorio\ardublockly\ServerCompilerSettings.ini
+
+2025-04-01T15:10:39.113Z - info: [ServerMgr] Server stopped.
+2025-04-01T15:10:39.121Z - info: [ArdublocklySrv] Process exited with code null
